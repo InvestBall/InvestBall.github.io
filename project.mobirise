@@ -37,15 +37,15 @@
     "uniqCompNum": 13,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/bitcoin-btc-symbol-d75950754-128x128.png",
     "noImageResize": ""
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
-        "meta_descr": "",
+        "title": "InvestBall",
+        "meta_descr": "GANHE DINHEIRO ASSISTINDO FUTEBOL",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
